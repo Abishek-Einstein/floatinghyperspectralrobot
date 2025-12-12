@@ -1,5 +1,3 @@
-# floatinghyperspectralrobot
-
 # **Robotic Floating Hyperspectral Radiometer Platform**
 
 ### Monitoring Chlorophyll and Plastic Pollution in Aquatic Environments
